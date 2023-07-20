@@ -1,13 +1,13 @@
 {
-  "homepage": "https://github.com/dinadess/multi-step-form-fm/",
+  
   "name": "multi-step-form-fm",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "build": "run-p type-check build-only",
+    
+    "build": "vite build",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit",

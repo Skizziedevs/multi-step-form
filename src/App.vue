@@ -15,15 +15,7 @@ const stepStore = useStepStore();
     </div>
   </main>
   <!-- Attribution -->
-  <footer>
-    <div class="attribution text-sm md:text-base text-center mt-4 px-4">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by
-      <a href="https://www.frontendmentor.io/profile/dinadess">Oshyeld</a>.
-    </div>
-  </footer>
+ 
 </template>
 
 <style scoped>
