@@ -27,7 +27,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup >
 import { useStepStore } from "@/stores/step";
 import { ref } from "vue";
 

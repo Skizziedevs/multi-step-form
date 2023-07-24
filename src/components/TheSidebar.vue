@@ -17,7 +17,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup >
 import SidebarItem from "@/components/SidebarItem.vue";
 import { useStepStore } from "@/stores/step";
 

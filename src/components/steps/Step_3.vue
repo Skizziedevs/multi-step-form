@@ -31,7 +31,7 @@
   </TheStepper>
 </template>
 
-<script setup lang="ts">
+<script setup >
 import TheStepper from "@/components/TheStepper.vue";
 
 import { useStepStore } from "@/stores/step";

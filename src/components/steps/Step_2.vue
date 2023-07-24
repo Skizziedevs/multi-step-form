@@ -64,7 +64,7 @@
   </TheStepper>
 </template>
 
-<script setup lang="ts">
+<script setup >
 import TheStepper from "@/components/TheStepper.vue";
 import AdvancedIcon from "@/components/icons/AdvancedIcon.vue";
 import ArcadeIcon from "@/components/icons/ArcadeIcon.vue";

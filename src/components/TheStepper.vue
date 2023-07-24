@@ -13,7 +13,7 @@
   </form>
 </template>
 
-<script setup lang="ts">
+<script setup >
 import { useStepStore } from "@/stores/step";
 
 const stepStore = useStepStore();
